@@ -1,0 +1,26 @@
+[
+  {
+    "role": "UI/UX Designer",
+    "organisation": "Nspira Management Service Pvt Ltd",
+    "startDate": "Mar 2019",
+    "endDate": "Dec 2020",
+    "imageSrc": "history/nspira.png",
+    "experiences": [
+      "Designed UI for web and mobile applications.",
+      "Collaborated with teams to improve user experience.",
+      "Conducted research and usability testing."
+    ]
+  },
+  {
+    "role": "React JS Developer",
+    "organisation": "Jayabala IT Solutions Pvt Ltd",
+    "startDate": "Mar 2022",
+    "endDate": "Present",
+    "imageSrc": "history/jnit.png",
+    "experiences": [
+      "Developed scalable web apps using React JS.",
+      "Integrated REST APIs and managed state with Redux.",
+      "Collaborated with teams to deliver high-quality software."
+    ]
+  }
+]
